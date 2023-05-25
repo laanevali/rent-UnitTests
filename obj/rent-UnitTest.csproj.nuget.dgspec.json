@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\rent-UnitTest.csproj": {}
+    "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\rent-UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\rent-UnitTest.csproj": {
+    "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\rent-UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\rent-UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\rent-UnitTest.csproj",
         "projectName": "rent-UnitTest",
-        "projectPath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\rent-UnitTest.csproj",
+        "projectPath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\rent-UnitTest.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,6 +83,16 @@
             "xunit.assert": {
               "target": "Package",
               "version": "[2.4.2, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
             }
           },
           "imports": [

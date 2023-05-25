@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/p6bMOdv5Yb7O+k1wsPL++/ORFKfg12fgm9KIpKM1oDmQw9r6NUDZGmRWxJfb3pxEe2W8fB3VOaGS/OvmOaznQ==",
+  "dgSpecHash": "v+wnROnJdq1+hlqYW2W/bWIsRE5fQruFQ7GpseCpCAsqlzh97uKj1sqwjdEa6xer3fzA6QttdTsvnEJEP6kFbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTest\\rent-UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\rebec\\OneDrive\\Documents\\GitHub\\rent-UnitTests\\rent-UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rebec\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
@@ -113,7 +113,8 @@
     "C:\\Users\\rebec\\.nuget\\packages\\xunit.assert\\2.4.2\\xunit.assert.2.4.2.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\xunit.core\\2.4.2\\xunit.core.2.4.2.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512"
+    "C:\\Users\\rebec\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
   "logs": []
 }
